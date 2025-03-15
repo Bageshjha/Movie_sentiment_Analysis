@@ -11,3 +11,9 @@ LSTM model to capture sequential dependencies in text.
 Binary classification (Positive vs. Negative sentiment).
 
 Trained on IMDB movie reviews dataset.
+
+### Dataset
+
+The model is trained using the IMDB dataset available on Kaggle.
+To download -: 
+!kaggle datasets download -d lakshmi25npathi/imdb-dataset-of-50k-movie-reviews

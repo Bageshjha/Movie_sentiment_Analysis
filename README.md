@@ -16,4 +16,4 @@ Trained on IMDB movie reviews dataset.
 
 The model is trained using the IMDB dataset available on Kaggle.
 To download -: 
-!kaggle datasets download -d lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+```!kaggle datasets download -d lakshmi25npathi/imdb-dataset-of-50k-movie-reviews

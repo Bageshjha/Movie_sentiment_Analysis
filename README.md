@@ -19,3 +19,16 @@ To download -:
 ```
  !kaggle datasets download -d lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 ```
+
+Then, extract:
+```
+!unzip imdb-dataset-of-50k-movie-reviews.zip -d ./imdb_data
+```
+
+### Improvements
+
+Implement Bidirectional LSTM for better context understanding.
+
+Fine-tune pretrained word embeddings like GloVe or Word2Vec.
+
+Add attention mechanism for improved feature importance weighting.
